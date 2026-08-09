@@ -1,6 +1,6 @@
 {
-    "name": "Royalcord",
-    "description": "A Persona 5 based theme",
+    "name": "P3Rain",
+    "description": "A Persona 3 Reload based theme",
     "version": "1.0",
     "authors": [
         {
@@ -521,7 +521,7 @@
     },
     "background": {
     "blur": 0,
-    "url": "https://file.garden/aKYZd-0-7XrPdUQl/Untitled224_20260802190957.png",
+    "url": "https://file.garden/aKYZd-0-7XrPdUQl/fv_movie2_1aaf21a0de60678450744da0dbaf9ef4%20(online-video-cutter.com).gif",
     "alpha": 0.30
     },
     "plus": {
