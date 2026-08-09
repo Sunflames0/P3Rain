@@ -10,7 +10,7 @@
     ],
     "semanticColors": {
         "ANDROID_RIPPLE": [
-            "#000000"
+            "#FFFFFF"
         ],
         "BACKGROUND_ACCENT": [
             "#BA0001"
@@ -37,25 +37,25 @@
             "#000000"
         ],
         "BACKGROUND_MOBILE_PRIMARY": [
-            "#000000"
+            "#FFFFFF"
         ],
         "BACKGROUND_MOBILE_SECONDARY": [
-            "#000000"
+            "#FFFFFF"
         ],
         "BACKGROUND_NESTED_FLOATING": [
             "#000000"
         ],
         "BACKGROUND_PRIMARY": [
-            "#000000"
+            "#FFFFFF"
         ],
         "BACKGROUND_SECONDARY": [
-            "#000000"
+            "#FFFFFF"
         ],
         "BACKGROUND_SECONDARY_ALT": [
-            "#000000"
+            "#FFFFFF"
         ],
         "BACKGROUND_TERTIARY": [
-            "#000000"
+            "#FFFFFF"
         ],
         "BADGE_BRAND_BG": [
             "#BA0001"
@@ -522,7 +522,7 @@
     "background": {
     "blur": 0,
     "url": "https://file.garden/aKYZd-0-7XrPdUQl/fv_movie2_1aaf21a0de60678450744da0dbaf9ef4%20(online-video-cutter.com).gif",
-    "alpha": 0.60
+    "alpha": 0.80
     },
     "plus": {
         "version": "0",
